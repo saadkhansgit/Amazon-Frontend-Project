@@ -1,0 +1,1 @@
+This is an Amazon homepage Frontend project 
